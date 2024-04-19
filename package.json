@@ -1,0 +1,25 @@
+{
+    "name": "challenge-18-nosql-2-0",
+    "version": "1.0.0",
+    "description": "A social networking web application where users can share their thoughts, connect with friends, and engage with each other's posts. Users can register for an account, create a profile, post thoughts, like and comment on posts, and build a network of friends. The app provides a platform for users to express themselves, stay connected with friends, and discover new content.",
+    "main": "node server.js",
+    "scripts": {
+      "start": "node server.js"
+
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Brodrigo04/challenge-18-nosql-2-0"
+    },
+
+    "keywords": [],
+    "author": "Brandon (Brodrigo04)",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mongoose": "^6.2.9",
+      "url": "https://github.com/Brodrigo04/challenge-18-nosql-2-0"
+     
+    }
+  }
+  
